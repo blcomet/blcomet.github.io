@@ -9,6 +9,6 @@ redirect_from:
 
 I'm Jiawei Yang.
 
-I am an undergraduate student at Xi'an University of Agriculture and Technology. My research aims to bridge the gap between computer vision and embody AI.
+I am an undergraduate student at Xi'an University of Architecture and Technology. My research aims to bridge the gap between computer vision and embody AI.
 
 Previously, I obtained my  from Tianjin University.
